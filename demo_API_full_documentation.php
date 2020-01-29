@@ -4,7 +4,6 @@ Getting all body row data
 B:-$users_id = $this->input->get_request_header('User-ID', TRUE);
 getting header particular field data like User-ID
 
-
 C:-$postData = $this->input->post();
 getting body form-data 
 
